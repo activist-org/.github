@@ -1,3 +1,3 @@
-# activist-ui
+# .github
 
-### The web app for activist
+Community health files for [@activist-org](https://github.com/activist-org).
