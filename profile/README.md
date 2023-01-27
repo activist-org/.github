@@ -19,7 +19,7 @@ We strive to be an inclusive community. Coders and open-source supporters of any
 
 <strong>2022</strong>
 
-- [Presentation]() for the [2022 Wikimedia UNLOCK accelerator](https://www.wikimedia.de/unlock/)
+- [Presentation](https://www.youtube.com/watch?v=PdUZ8zFWnCk&list=PLduaHBu_3ejMxN1xipMDCOTb0wx6wxWnZ) for the [2022 Wikimedia UNLOCK accelerator](https://www.wikimedia.de/unlock/)
 - activist on the [Wikimedia UNLOCK accelerator website](https://www.wikimedia.de/unlock/unlock-projects/activist-org/)
 
 </p>
