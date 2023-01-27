@@ -1,7 +1,6 @@
 ## Welcome! 👋✊
 
-<!-- [![logo](https://raw.githubusercontent.com/activist-org/Organization/main/logo/activistGitHubOrgBanner.png)](https://github.com/activist-org) -->
-
+[![logo](https://raw.githubusercontent.com/activist-org/Organization/main/logo/activistGitHubOrgBanner.png)](https://github.com/activist-org)
 [![web](https://img.shields.io/badge/Web-0183DC.svg?logo=windows-terminal&logoColor=ffffff)](https://github.com/activist-org/activist)
 [![android](https://img.shields.io/badge/Android-32DE84.svg?logo=android&logoColor=ffffff)](https://github.com/activist-org/activist-Android)
 [![ios](https://img.shields.io/badge/iOS-999999.svg?logo=apple&logoColor=ffffff)](https://github.com/activist-org/activist-iOS)
