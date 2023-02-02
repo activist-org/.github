@@ -12,7 +12,7 @@
 
 We strive to be an inclusive community. Coders and open-source supporters of any level are welcome!
 
-[**Frequently Asked Questions**](https://activist.org/docs/faq)
+[**Frequently Asked Questions**](https://activist.org/help/faq)
 
 <details><summary><strong>activist Featured on the Web</strong></summary>
 <p>
