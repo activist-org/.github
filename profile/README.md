@@ -11,7 +11,7 @@
 
 **activist** is a community of political activists, volunteers and open-source developers creating tools to help people make a difference in the issues that matter most to them. Our current project is the [MVP for activist.org](https://github.com/activist-org/activist), a central platform to find and discover political events and organizations. Once the web version is up and running we'll then shift our focus to native apps in [activist-Android](https://github.com/activist-org/activist-Android) and [activist-iOS](https://github.com/activist-org/activist-iOS).
 
-We strive to be an inclusive community. Coders and open-source supporters of any level are welcome! You're more than welcome to [join us in our public Matrix chat rooms](https://matrix.to/#/#activist_community:matrix.org) to share ideas, ask questions or just say hi :)
+We strive to be an inclusive community. Coders and open-source supporters of any level are welcome! Please [join us in our public Matrix chat rooms](https://matrix.to/#/#activist_community:matrix.org) to share ideas, ask questions or just say hi :)
 
 [**Frequently Asked Questions**](https://activist.org/help/faq)
 
