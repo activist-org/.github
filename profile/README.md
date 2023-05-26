@@ -18,6 +18,10 @@ We strive to be an inclusive community. Coders and open-source supporters of any
 <details><summary><strong>activist Featured on the Web</strong></summary>
 <p>
 
+<strong>2023</strong>
+
+- [Presentation](https://docs.google.com/presentation/d/1MMCi8UoGZgDOLovEsE-jHNsPQcoQD5pQxLCI1E9Qt0Q/edit?usp=sharing) of activist at the Berlin [tech from below meetup](https://techfrombelow.de/2023-05-11/)
+
 <strong>2022</strong>
 
 - [Presentation](https://www.youtube.com/watch?v=PdUZ8zFWnCk&list=PLduaHBu_3ejMxN1xipMDCOTb0wx6wxWnZ) for the [2022 Wikimedia UNLOCK accelerator](https://www.wikimedia.de/unlock/)
