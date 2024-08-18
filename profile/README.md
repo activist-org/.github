@@ -5,6 +5,7 @@
 [![android](https://img.shields.io/badge/Android-32DE84.svg?logo=android&logoColor=ffffff)](https://github.com/activist-org/activist-Android)
 [![ios](https://img.shields.io/badge/iOS-999999.svg?logo=apple&logoColor=ffffff)](https://github.com/activist-org/activist-iOS)
 [![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](https://github.com/activist-org/Organization/blob/main/.github/CODE_OF_CONDUCT.md)
+[![weblate](https://img.shields.io/badge/Weblate-144D3F.svg?logo=weblate&logoColor=ffffff)](https://hosted.weblate.org/projects/activist/activist/)
 [![instagram](https://img.shields.io/badge/Instagram-8134AF.svg?logo=instagram&logoColor=ffffff)](https://instagram.com/activist_org)
 [![matrix](https://img.shields.io/badge/Matrix-000000.svg?logo=matrix&logoColor=ffffff)](https://matrix.to/#/#activist_community:matrix.org)
 
