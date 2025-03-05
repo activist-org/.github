@@ -13,7 +13,7 @@
 
 We strive to be an inclusive community. Coders and open-source supporters of any level are welcome! Please also [join us in our public Matrix chat rooms](https://matrix.to/#/#activist_community:matrix.org) to share ideas, ask questions or just say hi :)
 
-[**Frequently Asked Questions**](https://activist.org/help/faq)
+[**📝 View the activist documentation**](https://docs.activist.org/activist)
 
 <details><summary><strong>activist Featured on the Web</strong></summary>
 <p>
